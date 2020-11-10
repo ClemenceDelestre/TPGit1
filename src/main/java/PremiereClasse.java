@@ -13,4 +13,4 @@ public class PremiereClasse {
 }
 
 
-/// CECI EST UNE MODIFICATION DE TYPE MODIF QUI VA CREER UN CONFLIT (la grippe = corona pour corona)
+/// CECI EST UNE MODIFICATION DE TYPE MODIF QUI VA CREER UN CONFLIT 
